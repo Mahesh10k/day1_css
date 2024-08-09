@@ -1,0 +1,13 @@
+header {
+    background-color: red;
+}
+section {
+    background-color: cyan;
+}
+article {
+    background-color: bisque;
+    font-size: large;
+}
+aside {
+    background-color: chartreuse;
+}
